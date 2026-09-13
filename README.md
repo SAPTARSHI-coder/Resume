@@ -106,7 +106,15 @@ pdflatex research_cv.tex
 
 ---
 
-## 📜 License & Usage
+## 🛡️ License, Copyright & Legal Protection
 
-© 2026 Saptarshi Sadhu. All rights reserved.  
-The source code and design specification are open for reference. Feel free to adapt the LaTeX structure for personal academic use.
+[![License: Proprietary / All Rights Reserved](https://img.shields.io/badge/License-All_Rights_Reserved-red.svg)](LICENSE)
+
+**Copyright © 2026 Saptarshi Sadhu. All Rights Reserved.**
+
+### ⛔ Usage & Protection Terms:
+- **Strict Anti-Plagiarism & Anti-Impersonation**: You are **strictly prohibited** from copying, reproducing, or publishing any of Saptarshi Sadhu's personal achievements, manuscript titles, research metrics, academic scores, or project statistics under another person's name.
+- **No Commercial Exploitation**: No part of this CV, document content, or personal assets may be harvested, scraped, resold, or sublicensed for commercial resume services or talent databases.
+- **Permitted Use (LaTeX Template Structure)**: You may reference and adapt the structural LaTeX layout logic (`research_cv.tex` macro setup) for your own resume, **provided that all personal text, project data, publication titles, and candidate identifiers belonging to Saptarshi Sadhu are completely removed**.
+
+For official verification or inquiries, please contact: [saptarshisadhuofficial@gmail.com](mailto:saptarshisadhuofficial@gmail.com)
